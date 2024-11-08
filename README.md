@@ -35,15 +35,14 @@
 </div>
 
 ###
-<br clear="both"> <br clear="both">
+<br clear="both">
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=2blqck&theme=meta-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="http://streak-stats.demolab.com?user=2blqck&theme=meta-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ###
 
 <br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=2blqck.2blqck&right_color=blueviolet"  />
 </div>
