@@ -1,8 +1,4 @@
 ###
-
-<h2 align="center">🤖 - twoblqck.art | ✒️ - graphic designer | 🃏 - Jack of all trades, master of none</h2>
-
-###
 <br>
 <div align="center">
   <img height="200" src="https://i.imgur.com/W4cMmat.gif"  />
