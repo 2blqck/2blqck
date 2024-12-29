@@ -1,9 +1,9 @@
 ###
 <br>
 <div align="center">
-  <img height="125" src="https://i.imgur.com/6aJyjh6.gif"  />
+  <img height="150" src="https://i.imgur.com/6aJyjh6.gif"  />
 </div>
-<br clear="both"><br clear="both">
+<br clear="both">
 
 ###
 <div align="center">
