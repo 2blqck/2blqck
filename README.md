@@ -31,12 +31,6 @@
 </div>
 
 ###
-<br clear="both">
-<div align="center">
-  <img src="http://streak-stats.demolab.com?user=2blqck&theme=meta-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-###
 
 <br clear="both">
 <div align="center">
